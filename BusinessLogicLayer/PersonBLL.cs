@@ -26,9 +26,9 @@ namespace BusinessLogicLayer
             return _taskRepo.GetListOfTasksByName(Name);
         }
 
-        public List<Tasks> GetListOOfCompleTaskByName(string Name)
+        public List<Tasks> GetListOfCompleTaskByName(string Name)
         {
-            return _taskRepo.GetListOOfCompleTaskByName(Name);
+            return _taskRepo.GetListOfCompleTaskByName(Name);
         }
 
         public Person GetPersonByName(string name)

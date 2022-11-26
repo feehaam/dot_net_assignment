@@ -51,7 +51,7 @@ namespace asingment.Controllers
         [HttpGet("/listOfCompletedTasks/{name}")]
         public IActionResult GetListOfCompletedTasksByName(string name)
         {
-            var x = personBLL.GetListOOfCompleTaskByName(name);
+            var x = personBLL.GetListOfCompleTaskByName(name);
             return Ok(x);
         }
 

@@ -31,7 +31,7 @@ namespace DataAccessLayer.Repository
         }
 
 
-        public List<Tasks> GetListOOfCompleTaskByName(string Name)
+        public List<Tasks> GetListOfCompleTaskByName(string Name)
         {
             var x = _context.Tasks.Where(i => i.IsComplete == true).ToList();
             return x.Where(i => i.OrderFor == Name).ToList();

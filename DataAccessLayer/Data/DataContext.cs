@@ -11,7 +11,6 @@ namespace asingment.Model
         }
 
        public DbSet<Person> Persons { get; set; }
-       //public DbSet<ServiceMan> ServiceMen { get; set; }
        public DbSet<Tasks> Tasks { get; set; }
 
 

@@ -1675,9 +1675,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\asingment.csproj",
-      "projectName": "asingment",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\asingment.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\application.csproj",
+      "projectName": "application",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\obj\\",
       "projectStyle": "PackageReference",

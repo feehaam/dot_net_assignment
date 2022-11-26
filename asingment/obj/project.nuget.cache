@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NUDTxUeeF2QuYioel7fY1yzy+KJkacgMsT7WxMN48PyHXlA4LYKqjVK45fkMa2O0Cv52c2oxZtzOMUVkNd6isQ==",
+  "dgSpecHash": "GcGdPkajML+qvX6OIDAIV76dGQwwBsK6v5j3keMfLnWFxuq/3HPqW8Xfc/1AY85Ertll2ecWkOaPx2rDW02vcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\asingment.csproj",
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\Original\\asingment\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -15,7 +15,7 @@ namespace BusinessLogicLayer
 
         List<Tasks> GetListOfTasksByName(string Name);
 
-        List<Tasks> GetListOOfCompleTaskByName(string Name);
+        List<Tasks> GetListOfCompleTaskByName(string Name);
         bool PersonExists(string name);
     }
 }

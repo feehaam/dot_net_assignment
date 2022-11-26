@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asingment", "asingment.csproj", "{7678F1FA-62DD-4B18-9041-D1CD08937005}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "application", "application.csproj", "{7678F1FA-62DD-4B18-9041-D1CD08937005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "..\BusinessLogicLayer\BusinessLogicLayer.csproj", "{C6BDB0BD-4095-41EB-842C-BBBD1FC53F47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicLayer", "..\BusinessLogicLayer\BusinessLogicLayer.csproj", "{C6BDB0BD-4095-41EB-842C-BBBD1FC53F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{0B2FEDA4-4CE5-41AB-99C4-29F6180F6434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{0B2FEDA4-4CE5-41AB-99C4-29F6180F6434}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
